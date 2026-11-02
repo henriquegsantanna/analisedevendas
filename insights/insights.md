@@ -76,7 +76,7 @@ Antes de concluírmos nossa hipótese, vamos identificar a quantidade de descont
 
 ![alt text](/imagens/image11.png)
 
--   De 9993 vendas, 1139 tiveram descontos relativamente alto/alto (40%+)
+-   Dos 9993 registros de itens vendidos, 1139 tiveram descontos relativamente alto/alto (40%+)
 -   Destaque para a alta frequência de descontos extremamente altos (70% e 80%), que ocupam a 3º e 4º posições entre os mais aplicados nas vendas (comportamento incomum que, possívelmente está impactando negativamente no lucro da empresa).
 
 
@@ -86,14 +86,14 @@ Antes de concluírmos nossa hipótese, vamos identificar a quantidade de descont
 
 ![alt text](/imagens/image13.png)
 
--   Vendas com 30%+ de desconto geram prejuízo para a empresa.
+-   Vendas com 30%+ de desconto parecem gerar prejuízo para a empresa.
 -   Vendas com 40%+ de desconto geraram **-$122,615.80** de prejuízo para a empresa.
--   Das 9993 vendas, 5160 tiveram desconto, **mais da metade** (51,64%)
--   Das **1379** vendas com 30%+ de desconto, somente **32 geraram lucro** para a empresa.
--   **Nenhuma venda** com 45%+ de desconto gerou lucro para a empresa.
+-   Dos 9993 registros de itens vendidos, 5160 tiveram desconto, **mais da metade** (51,64%)
+-   Dos **1379** registros de itens vendidos com 30%+ de desconto, somente **32 geraram lucro** para a empresa.
+-   **Nenhum registro de venda** com 45%+ de desconto gerou lucro para a empresa.
 
 A partir dessa análise, é possível concluir que a empresa não está tendo lucro em vendas com desconto igual ou acima de 40%, e, a empresa também teve muitas vendas com descontos extremamente altos (70% e 80%), que, de fato, impactaram negativamente no lucro da empresa.
 
 **Recomendações (visando lucro):**
 -   Evitar ao máximo aplicar descontos de 50% ou mais, somente em ocasiões específicas/datas comemorativas e em produtos que, mesmo com esse desconto, gerariam lucro para a empresa.
--   Como mais da metade das vendas tiveram desconto (51,64%), averiguar com o setor financeiro a possibilidade de um programa de fidelidade para atrair novos clientes e aumentar o lucro da empresa, por exemplo: a cada 3 compras, 20% de desconto na próxima.
+-   Como mais da metade dos registros de itens vendidos tiveram desconto (51,64%), averiguar com o setor financeiro a possibilidade de um programa de fidelidade para atrair novos clientes e aumentar o lucro da empresa, por exemplo: a cada 3 compras, 20% de desconto na próxima (desconto baixo).
