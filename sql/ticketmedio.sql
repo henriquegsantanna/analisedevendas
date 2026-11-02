@@ -1,3 +1,4 @@
-SELECT AVG(sales) FROM vendas;
+SELECT SUM(sales) / COUNT(DISTINCT order_id) AS ticket_medio
+FROM vendas;
 
--- Ticket médio por venda: $229.85
+-- Ticket médio por venda

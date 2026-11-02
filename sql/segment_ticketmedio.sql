@@ -1,5 +1,5 @@
 SELECT segment,
-AVG(sales) AS ticket_medio
+SUM(sales) / COUNT(DISTINCT order_id) AS ticket_medio
 FROM vendas
 GROUP BY segment
 ORDER BY ticket_medio DESC;
