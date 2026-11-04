@@ -1,4 +1,4 @@
-SELECT SUM(quantity) AS total_itens_vendidos
+SELECT SUM(quantity) AS qtd_itens_vendidos
 FROM vendas;
 
--- Total de itens vendidos
+-- Quantidade de itens vendidos
