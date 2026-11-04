@@ -77,7 +77,7 @@ Antes de concluírmos nossa hipótese, vamos identificar a quantidade de descont
 ![alt text](/imagens/image11.png)
 
 -   Dos 9993 registros de itens vendidos, 5195 tiveram descontos, **mais da metade** (52%)
--   1139 itens vendidos tiveram descontos relativamente alto/alto (40%+)
+-   1139 registros de itens vendidos tiveram descontos relativamente alto/alto (40%+)
 -   Destaque para a alta frequência de descontos extremamente altos (70% e 80%), que ocupam a 3º e 4º posições entre os mais aplicados nas vendas (comportamento incomum que, possívelmente está impactando negativamente no lucro da empresa).
 
 Agora, a quantidade de itens com desconto em cada venda:
