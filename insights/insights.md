@@ -1,5 +1,7 @@
 # Descobertas e conclusões a partir da Análise Exploratória de Dados
 
+Pergunta central: **Os descontos influenciam na lucratividade da empresa?**
+
 ## 1. Produtos com alto faturamento e baixa lucratividade
 -   'Cisco TelePresence System EX90 Videoconferencing Unit' foi o 3º produto de maior faturamento ($22,638.48), porém gerou prejuízo (-$1,811.08).
 -   'HON 5400 Series Task Chairs for Big and Tall' foi o 4º produto de maior faturamento ($21,870.57), porém sem lucro nenhum ($0.00).
@@ -104,3 +106,7 @@ A partir dessa análise, é possível concluir que a empresa não está tendo lu
 **Recomendações (visando lucro):**
 -   Evitar ao máximo aplicar descontos de 50% ou mais, somente em ocasiões específicas/datas comemorativas e em produtos que, mesmo com esse desconto, gerariam lucro para a empresa.
 -   Como mais da metade dos registros de vendas tiveram desconto (58,97%) e, de acordo com o dataset, a maioria dos itens são vendidos em quantidade, averiguar com o setor financeiro a possibilidade de um programa de fidelidade para atrair novos clientes e aumentar o lucro da empresa, por exemplo: a cada 3 itens comprados, 20% de desconto aplicado na compra do **próximo item** (desconto baixo). Dessa forma o desconto seria aplicado somente em 1 item após a compra de 3 itens sem desconto.
+
+
+
+*(Insights feitos antes da criação do dashboard)*
